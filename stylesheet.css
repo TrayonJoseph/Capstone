@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    color: gold;
+    text-shadow: 3px 3px black;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#day{
+    height:200px;
+    font-size:14pt;
+}
+
+input{
+    font-size: 40px;
+    border: 7px solid white;
+    border-radius: 30px;
+    text-align: center;
+    background-color: gold;
+    color: black;
+    margin-top: 10px;
+}
+
+button{
+    border: 7px solid white;
+    border-radius: 30px;
+    background-color: gold;
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    color: gold;
+    text-shadow: 3px 3px black;
+}
